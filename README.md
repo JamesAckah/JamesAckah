@@ -17,7 +17,7 @@
 
 ---
 
-## 🌱 I’m currently learning
+## 🌱 I’m still in the learning Journey
 
 - Advance Terraform, CI/CD best practices, advanced Bash scripting, Advance Kubernetes, cloud-native architecture.
 
@@ -28,6 +28,7 @@
 - Infrastructure automation projects  
 - DevOps pipelines for startups  
 - Tech community workshops or mentorship
+- DevOps Internships 
 
 ---
 
