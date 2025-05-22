@@ -35,7 +35,8 @@
 ## 📫 How to reach me
 
 - 📧 jamesblay80@gmail.com  
-- 🌍 [Portfolio] (https://jamesblay.vercel.app)
+- 🌍 [Portfolio](https://jamesblay.vercel.app)
+- 🌍[Portfolio](https://www.jamesblay.vercel.app) 
 - 💬 [LinkedIn](https://www.linkedin.com/in/jamesackahblay) 
 
 ---
