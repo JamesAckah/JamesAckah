@@ -9,9 +9,9 @@
 
 - 🖥️ **System Administration:** Windows Server, Linux (Ubuntu), Active Directory  
 - ⚙️ **DevOps Tools:** Git, Jenkins, Docker, Kubernetes, Ansible  
-- ☁️ **Cloud Platforms:** AWS (EC2, S3, IAM), Microsoft Azure  
-- 🛡️ **Networking & Security:** Firewalls, VPNs, Basic Pen Testing, Wireshark  
-- 🔧 **IT Support Tools:** Microsoft 365, Remote Desktop, TeamViewer  
+- ☁️ **Cloud Platforms:** AWS (EC2, S3, IAM, VPC,) 
+- 🛡️ **Networking & Security:** Firewalls, VPNs, Basic Pen Testing  
+- 🔧 **IT Support Tools:** Microsoft 365, Remote Desktop, TeamViewer, AnyDesk
 - 🗃️ **Databases:** MySQL, MongoDB  
 - 🧰 **Scripting:** Bash, PowerShell, Python (basics)
 
@@ -35,7 +35,7 @@
 ## 📫 How to reach me
 
 - 📧 jamesblay80@gmail.com  
-- 🌍 [portfolio.dalijaytechhub.online](https://portfolio.dalijaytechhub.online)  
+- 🌍 [Portfolio] (https://jamesblay.vercel.app)
 - 💬 [LinkedIn](https://www.linkedin.com/in/jamesackahblay) 
 
 ---
